@@ -19,6 +19,6 @@ Proyek ini menampilkan **Termux** yang telah dimodifikasi agar memiliki nuansa s
    ```bash
    pkg update && pkg upgrade
    pkg install sox mpv -y 
-   git clone https://github.com/GALIRUS404/JARVIS
+   git clone https://github.com/GALAXY-IP/JARVIS/
    cd JARVIS
    bash jarvis.sh
